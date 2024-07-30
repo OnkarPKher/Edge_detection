@@ -14,8 +14,4 @@ This project is a video processing pipeline designed to analyze a video and dete
 
 ### Mount Google Drive
 
-The video file to be processed should be stored in Google Drive. Mount the drive in your Colab environment:
-
-```python
-from google.colab import drive
-drive.mount('/content/drive/', force_remount=True)
+The video file to be processed should be stored in Google Drive. Mount the drive in your Colab environment
